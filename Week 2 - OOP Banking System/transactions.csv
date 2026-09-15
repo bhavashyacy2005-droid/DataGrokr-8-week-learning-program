@@ -1,0 +1,13 @@
+Date,Account_Number,Name,Transaction_Type,Amount,Balance
+2026-09-01,1001,Bhavashya,Deposit,5000,10000
+2026-09-02,1001,Bhavashya,Withdrawal,1200,8800
+2026-09-03,1002,Rahul,Deposit,3000,6000
+2026-09-04,1001,Bhavashya,Deposit,2500,11300
+2026-09-05,1002,Rahul,Withdrawal,800,5200
+2026-09-06,1003,Priya,Deposit,4500,9500
+2026-09-07,1001,Bhavashya,Withdrawal,1000,10300
+2026-09-08,1003,Priya,Withdrawal,1500,8000
+2026-09-09,1002,Rahul,Deposit,2000,7200
+2026-09-10,1001,Bhavashya,Deposit,3500,13800
+2026-09-11,1003,Priya,Deposit,2500,10500
+2026-09-12,1002,Rahul,Withdrawal,700,6500
