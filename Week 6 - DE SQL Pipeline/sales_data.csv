@@ -1,0 +1,8 @@
+
+sale_id,customer_code,customer_name,city,sale_date,product_name,quantity,sales_amount
+101,C101,Rahul,Bangalore,2026-01-05,Laptop,1,65000
+102,C102,Priya,Chennai,2026-01-12,Mouse,2,1600
+103,C104,Sneha,Hyderabad,2026-02-03,Monitor,1,15000
+104,C102,Priya,Bangalore,2026-02-10,Keyboard,2,3000
+105,C105,Kiran,Pune,2026-03-02,Headphones,3,7500
+106,C101,Rahul,Bangalore,2026-03-11,Phone,1,30000
